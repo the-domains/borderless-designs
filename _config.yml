@@ -1,7 +1,7 @@
 name: Borderless Designs
 favicon: null
-layout_spectrum: 0.9707809395622462
-typography_spectrum: 0.12482638587243855
+layout_spectrum: 0.49534
+typography_spectrum: 0.24043
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.049799824366346
+    - '#ffffff'
+    - '#020202'
+    - '#4d4d4d'
+    - '#cd796e'
+    - '#a83730'
+  brandStrength: 0.5
   lightness: 0.8370506102219224
   saturation: 0.17512904992327094
   rhythmicContrast: 0.294753095600754
